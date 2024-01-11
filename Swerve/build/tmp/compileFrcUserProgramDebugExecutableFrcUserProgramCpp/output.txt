@@ -1,0 +1,20 @@
+See file:///C:/Users/Public/Documents/2023%20VSCode/githubclones/swerve/Swerve/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling SwerveModule.cpp successful.
+
+compiling TestModeCommands.cpp successful.
+
+compiling AutonomousCommands.cpp successful.
+
+compiling Robot.cpp successful.
+
+compiling Infrastructure.cpp successful.
+
+compiling RobotContainer.cpp successful.
+
+compiling PWMAngleSensor.cpp successful.
+
+compiling SparkMax.cpp successful.
+
+compiling DriveSubsystem.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/Public/Documents/2023%20VSCode/githubclones/swerve/Swerve/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
